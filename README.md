@@ -23,14 +23,14 @@
 > **Scope AI Solutions** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-## APLY with AI
-> **Agents and Workflows** | [Preview]()   
+## Apply AI at Work
+> **Agents and Workflows** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Apply_AI_at_Work/Agents_and_Workflows.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **AI Foundations** | [Preview]()   
+> **AI Foundations** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Apply_AI_at_Work/AI_Foundations.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Applied AI Foundations** | [Preview]()   
+> **Applied AI Foundations** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Apply_AI_at_Work/Applied_AI_Foundations.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 ## Privacy Notice｜隱私聲明

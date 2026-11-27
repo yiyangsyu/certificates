@@ -2,7 +2,7 @@
 > **Scale Codex Across Teams and Systems** | [Preview]()  
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Extend Codex Workflows** | [Preview]() 
+> **Extend Codex Workflows** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 > **Get Started with Codex** | [Preview]()   

@@ -7,14 +7,14 @@ Privacy Notice: To protect personal privacy, all certificates in this repository
 ## Build with AI
 > **Certificate Holder:** YI-YANG SYU
 
-| # | Credential / Badge Name | Issuing Organization | Verification |
-| :-: | :--- | :--- | :---: |
-| 1 | **徽章名稱 1（含金量/難度最高）** | OAI Academy | [Verify Credential](https://credential.net) |
-| 2 | **徽章名稱 2** | OAI Academy | [Verify Credential](https://你的驗證網址2) |
-| 3 | **徽章名稱 3** | OAI Academy | [Verify Credential](https://你的驗證網址3) |
-| 4 | **徽章名稱 4** | OAI Academy | [Verify Credential](https://你的驗證網址4) |
-| 5 | **徽章名稱 5** | OAI Academy | [Verify Credential](https://你的驗證網址5) |
-| 6 | **徽章名稱 6** | OAI Academy | [Verify Credential](https://你的驗證網址6) |
-| 7 | **徽章名稱 7** | OAI Academy | [Verify Credential](https://你的驗證網址7) |
-| 8 | **徽章名稱 8（基礎入門）** | OAI Academy | [Verify Credential](https://你的驗證網址8) |
+| # | Credential / Badge Name | Verification |
+| :-: | :--- | :---: |
+| 1 | **徽章名稱 1（含金量/難度最高）** | [Verify Credential](https://credential.net) |
+| 2 | **徽章名稱 2** | [Verify Credential](https://你的驗證網址2) |
+| 3 | **徽章名稱 3** | [Verify Credential](https://你的驗證網址3) |
+| 4 | **徽章名稱 4** | [Verify Credential](https://你的驗證網址4) |
+| 5 | **徽章名稱 5** | [Verify Credential](https://你的驗證網址5) |
+| 6 | **徽章名稱 6** | [Verify Credential](https://你的驗證網址6) |
+| 7 | **徽章名稱 7** | [Verify Credential](https://你的驗證網址7) |
+| 8 | **徽章名稱 8（基礎入門）** | [Verify Credential](https://你的驗證網址8) |
 

@@ -2,25 +2,25 @@
 > **Scale Codex Across Teams and Systems** | [Preview]()  
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Extend Codex Workflows** | [Preview]() 
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Get Started with Codex** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Optimize AI Application Performance** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Build with Retrieval-Augmented Generation** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Design and Build Agentic Systems** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Evaluate AI Applications** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **徽章名稱**  
+> **Scope AI Solutions** | [Preview]()   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 ## APLY with AI

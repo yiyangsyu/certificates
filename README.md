@@ -1,26 +1,26 @@
 ## Build with AI
-> **Scale Codex Across Teams and Systems** | [Preview]()  
+> **Scale Codex Across Teams and Systems** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Scale_Codex_Across_Teams_and_Systems.png)  
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Extend Codex Workflows** | [Preview]()   
+> **Extend Codex Workflows** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Extend_Codex_Workflows.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Get Started with Codex** | [Preview]()   
+> **Get Started with Codex** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Get_Started_with%20Codex.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Optimize AI Application Performance** | [Preview]()   
+> **Optimize AI Application Performance** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Optimize_AI_Application_Performance.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Build with Retrieval-Augmented Generation** | [Preview]()   
+> **Build with Retrieval-Augmented Generation** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Build_with_Retrieval_Augmented_Generation.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Design and Build Agentic Systems** | [Preview]()   
+> **Design and Build Agentic Systems** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Design_and_Build_Agentic_Systems.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Evaluate AI Applications** | [Preview]()   
+> **Evaluate AI Applications** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Evaluate_AI_Applications.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
-> **Scope AI Solutions** | [Preview]()   
+> **Scope AI Solutions** | [Preview](https://github.com/yiyangsyu/certificates/blob/main/Build_with_AI/Scope_AI_Solutions.png)   
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 ## Apply AI at Work

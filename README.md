@@ -1,5 +1,5 @@
 ## Build with AI
-> **Scale Codex Across Teams and Systems**[Preview]()  
+> **Scale Codex Across Teams and Systems** | [Preview]()  
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 > **徽章名稱**  

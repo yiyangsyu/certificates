@@ -1,6 +1,5 @@
 # Certifications & Digital Badges | 專業認證與數位徽章
-> **Certificate Holder:** YI-YANG SYU | **Issuing Organization:** OpenAI Academy
-
+### Issued by **OpenAI Academy** · Certificate Holder: **YI-YANG SYU**
 ---
 
 ## Core Focus: AI Agent Architecture, Deployment & Ops | 核心聚焦：AI 代理架構、部署與維運
@@ -20,7 +19,7 @@
 > **Evaluate AI Applications** *(品質管理：Agent 行為評估、自動化測試與安全護欄)*  
 > [Preview](Build_with_AI/Evaluate_AI_Applications.png) | [Verify Credential](https://oaiacademy.credential.net/cc441ab9-9b2a-47eb-aabd-35d93daf7c15#acc.gv1zKFca)
 
-> **Build with Retrieval-Augmented Generation** *(知識庫基建：向量資料庫串接與企業外部記憶檢索)*  
+> **Build with Retrieval-Augmented Generation** *(知識庫建立：向量資料庫串接與企業外部記憶檢索)*  
 > [Preview](Build_with_AI/Build_with_Retrieval_Augmented_Generation.png) | [Verify Credential](https://oaiacademy.credential.net/f9704a83-3b6f-4eaf-8b7d-3f29c904c8ea#acc.YNDZLIMi)
 
 ---

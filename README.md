@@ -1,7 +1,3 @@
-Privacy Notice: To protect personal privacy, all certificates in this repository have been de-identified (with certificate numbers and sensitive personal information redacted). Original documents are available upon request.
-
-隱私聲明：為保護個人隱私，本儲存庫中所有證照檔案皆已進行去識別化處理（遮蔽證書編號與敏感個資）。若需查驗正本，歡迎隨時與我聯繫。
-
 ## Build with AI
 > **徽章名稱**  
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
@@ -28,3 +24,9 @@ Privacy Notice: To protect personal privacy, all certificates in this repository
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 ## APLY with AI
+
+## Privacy Notice｜隱私聲明
+To protect personal privacy, all certificates in this repository have been de-identified (with certificate numbers and sensitive personal information redacted). Original documents are available upon request.
+
+為保護個人隱私，本儲存庫中所有證照檔案皆已進行去識別化處理（遮蔽證書編號與敏感個資）。若需查驗正本，歡迎隨時與我聯繫。
+

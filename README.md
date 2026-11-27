@@ -24,6 +24,14 @@
 > Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 ## APLY with AI
+> **Agents and Workflows** | [Preview]()   
+> Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
+
+> **AI Foundations** | [Preview]()   
+> Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
+
+> **Applied AI Foundations** | [Preview]()   
+> Certificate holder: **YI-YANG SYU** | [Verify Credential](https://你的驗證網址)
 
 ## Privacy Notice｜隱私聲明
 To protect personal privacy, all certificates in this repository have been de-identified (with certificate numbers and sensitive personal information redacted). Original documents are available upon request.

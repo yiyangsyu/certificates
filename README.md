@@ -1,4 +1,4 @@
-# Certifications & Digital Badges
+# Certifications & Digital Badges | 專業認證與數位徽章
 > **Certificate Holder:** YI-YANG SYU | **Issuing Organization:** OpenAI Academy
 
 ---
